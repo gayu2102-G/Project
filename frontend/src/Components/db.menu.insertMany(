@@ -1,0 +1,23 @@
+ db.menu.insertMany(
+ [
+{
+      
+        "item" : "Matar paneer",
+        "cost" : 100,
+        "description" : "delicious curry1",
+        "restaurantId" : "1"
+},
+{
+        "item" : "Dal Makhani",
+        "cost" : 100,
+        "description" : "delicious curry2",
+        "restaurantId" : "2"
+},
+{
+        
+        "item" : "Paneer Do pyazza",
+        "cost" : 120,
+        "description" : "delicious curry3",
+        "restaurantId" : "3"
+}
+ ])
